@@ -1,4 +1,4 @@
-# 🧠 Trabalho Final - Lógica de Programação | Serratec
+# 🧠 Trabalho Final - Lógica de Programação | SERRATEC
 
 Projeto desenvolvido como **trabalho final da disciplina de Lógica de Programação** da residência **Serratec**.
 
