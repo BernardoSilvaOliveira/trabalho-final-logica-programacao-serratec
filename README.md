@@ -142,7 +142,7 @@ Leitura de uma matriz 4x4 para identificar o maior e o menor elemento armazenado
 
 ---
 
-### Questão 14 – Triângulo Retângulo de Altura N  
+### Questão 14 – Triângulo Retângulo de altura N  
 **Responsável:** Elionardo Silva dos Santos  
 
 Algoritmo que recebe um valor inteiro N e imprime um triângulo numérico com altura correspondente ao valor informado.
